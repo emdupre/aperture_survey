@@ -1,6 +1,6 @@
-# Aperture Survey Results
+# Community Survey Results
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ohbm/aperture_survey/master?filepath=aperture_survey_blog.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ohbm-aperture/community-survey/master?filepath=aperture_survey_blog.ipynb)
 
 These are the anonymized, item-level results from the [Aperture OHBM community survey](https://www.ohbmbrainmappingblog.com/blog/aperture-ohbm-community-survey), distributed December 2018.
 We have also published a [short blog post on these results]() on the OHBM blog.
